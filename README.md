@@ -1,14 +1,13 @@
-# pac
+# Pacman
 
-**DESCRIPTION:**
-     The PacMan Animation project is a fun and interactive web application created using HTML and JavaScript. 
-It brings the classic Pac-Man character to life, allowing it to move back and forth within a certain parameter in a webpage,
-changing its direction and appearance as it goes.
+**Description:**
+This HTML page features a Pac-Man animation moving horizontally within a container, controlled by JavaScript for direction, mouth animation, and boundary reversal, with a continuous animation loop triggered by setInterval every 100 milliseconds.
 
-**Steps to Run the Project:**
-     Once you run the project, the pacman will appears and move in the direction and reverse if its find the edge. 
+**How to run the code:**
 
-**Future Improvements:**
-     The project is enhanced by adding more styles and animation to the pacman.
+***Step1:*** Save the HTML file with .html extension.
 
-https://yogesh-mca2023.github.io/pac/
+***Step2:*** Click the "Go Live" button.A new browser window will open, displaying Pacman animation.
+
+**Future Improvemennt:**
+Consider adding obstacles or interactive elements within the container for Pac-Man to interact with, adding sound effects, or incorporating user controls for changing Pac-Man's direction and speed,enhancing the overall user experience.
